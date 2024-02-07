@@ -23,6 +23,11 @@ const testimonials = [
         photoUrl: "images/bill.jpg",
         text: "Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present."
       },
+      {
+        name:"William W. Purkey",
+        photoUrl:"images/willy.jpg",
+        text: "You've gotta dance like there's nobody watching, \n Love like you'll never be hurt, \n Sing like there's nobody listening, \n And live like it's heaven on earth."
+      },
 ];
 
 const imgEl = document.querySelector("img");
