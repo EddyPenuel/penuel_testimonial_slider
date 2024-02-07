@@ -28,6 +28,12 @@ const testimonials = [
         photoUrl:"images/willy.jpg",
         text: "You've gotta dance like there's nobody watching, \n Love like you'll never be hurt, \n Sing like there's nobody listening, \n And live like it's heaven on earth."
       },
+      {
+        name: "Theodore Roosevelt",
+        photoUrl: "images/theodore1.jpg",
+        text: "Do what you can, with what you have, where you are."
+
+      },
 ];
 
 const imgEl = document.querySelector("img");

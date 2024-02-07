@@ -33,4 +33,11 @@ body {
     .username {
         font-size: 13px;
         font-weight: 100;
+        color: aqua;
+       
     }
+
+    .text {
+        color: rgb(255, 230, 0);
+    }
+   
